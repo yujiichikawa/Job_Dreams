@@ -36,11 +36,11 @@ class Cadastro : AppCompatActivity() {
 
         val handle = document.set(job)
         handle.addOnSuccessListener {
-            Toast.makeText(this,"Conta criada com sucesso", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this,"Emprego adicionado nas nuvens", Toast.LENGTH_SHORT).show()
         }
 
         handle.addOnFailureListener{
-            Toast.makeText(this,"Ocorreu um erro ao cadastrar", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this,"Emprego não pode ir para as nuvens por algum motivo", Toast.LENGTH_SHORT).show()
         }
     }
 
