@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272025148979",
+    "project_id": "jobdreams-d0261",
+    "storage_bucket": "jobdreams-d0261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272025148979:android:18923d0098ef107be68d46",
+        "android_client_info": {
+          "package_name": "com.br.jobdreams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272025148979-hqrj8a6hgetp3pnlqq973d3bb04qrd54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqdmbBfZuxOU51s9of1FSTWPXzNlJ44Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272025148979-hqrj8a6hgetp3pnlqq973d3bb04qrd54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
