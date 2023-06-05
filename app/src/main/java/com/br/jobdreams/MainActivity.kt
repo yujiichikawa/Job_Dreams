@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         findViewById<TextView>(R.id.listaCadastro).setOnClickListener {
-            val intent = Intent(this,ListaConta::class.java)
+            val intent = Intent(this,ListaJob::class.java)
             startActivity(intent)
         }
     }

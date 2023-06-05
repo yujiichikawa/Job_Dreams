@@ -15,7 +15,7 @@
             android:name=".Cadastro"
             android:exported="false" />
         <activity
-            android:name=".ListaConta"
+            android:name=".ListaJob"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

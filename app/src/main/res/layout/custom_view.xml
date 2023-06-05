@@ -24,7 +24,7 @@
             android:padding="5dp">
 
             <TextView
-                android:id="@+id/Job"
+                android:id="@+id/jobjob"
                 android:layout_width="69dp"
                 android:layout_height="28dp"
                 android:gravity="center"
